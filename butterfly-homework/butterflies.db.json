@@ -1,0 +1,110 @@
+{
+  "butterflies": [
+    {
+      "id": "GI9_EuH8s1",
+      "commonName": "Zebra Swallowtail",
+      "species": "Protographium marcellus",
+      "article": "https://en.wikipedia.org/wiki/Protographium_marcellus"
+    },
+    {
+      "id": "xRKSdjkBt4",
+      "commonName": "Plum Judy",
+      "species": "Abisara echerius",
+      "article": "https://en.wikipedia.org/wiki/Abisara_echerius"
+    },
+    {
+      "id": "0MUBKMu07U",
+      "commonName": "Red Pierrot",
+      "species": "Talicada nyseus",
+      "article": "https://en.wikipedia.org/wiki/Talicada_nyseus"
+    },
+    {
+      "id": "NLktii5zvK",
+      "commonName": "Texan Crescentspot",
+      "species": "Anthanassa texana",
+      "article": "https://en.wikipedia.org/wiki/Anthanassa_texana"
+    },
+    {
+      "id": "SMyaT24g-N",
+      "commonName": "Guava Skipper",
+      "species": "Phocides polybius",
+      "article": "https://en.wikipedia.org/wiki/Phocides_polybius"
+    },
+    {
+      "id": "DCenP4kQNQ",
+      "commonName": "Mexican Bluewing",
+      "species": "Myscelia ethusa",
+      "article": "https://en.wikipedia.org/wiki/Myscelia_ethusa"
+    },
+    {
+      "id": "fRoRHI3WK",
+      "commonName": "Painted Lady Vanessa cardui",
+      "species": "Nymphalidae",
+      "article": "https://www.butterfliesandmoths.org/taxonomy/Nymphalidae"
+    },
+    {
+      "id": "ylVRg1PCI",
+      "commonName": "Painted Lady Vanessa cardui",
+      "species": "Nymphalidae",
+      "article": "https://www.butterfliesandmoths.org/taxonomy/Nymphalidae"
+    }
+  ],
+  "users": [
+    {
+      "id": "OOWzUaHLsK",
+      "username": "iluvbutterflies"
+    },
+    {
+      "id": "sdmU7-wkQX",
+      "username": "flutterby"
+    },
+    {
+      "id": "aqekk3t4kw",
+      "username": "metamorphosize_me"
+    },
+    {
+      "id": "Fzv2tJuI1",
+      "username": "gowtham"
+    },
+    {
+      "id": "b9tSSaY5M",
+      "username": "gowtham"
+    },
+    {
+      "id": "9nnJTUgQG",
+      "username": "gowtham"
+    }
+  ],
+  "ratings": [
+    {
+      "userId": "OOWzUaHLsK",
+      "butterflyId": "GI9_EuH8s1",
+      "rating": 4
+    },
+    {
+      "userId": "OOWzUaHLsK",
+      "butterflyId": "xRKSdjkBt4",
+      "rating": 5
+    },
+    {
+      "userId": "sdmU7-wkQX",
+      "butterflyId": "0MUBKMu07U",
+      "rating": 3
+    },
+    {
+      "userId": "aqekk3t4kw",
+      "butterflyId": "NLktii5zvK",
+      "rating": 2
+    },
+    {
+      "userId": "aqekk3t4kw",
+      "butterflyId": "SMyaT24g-N",
+      "rating": 5
+    },
+    {
+      "userId": "sdmU7-wkQX",
+      "butterflyId": "DCenP4kQNQ",
+      "rating": 4
+    }
+  ]
+}
